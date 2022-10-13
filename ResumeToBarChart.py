@@ -8,8 +8,9 @@ Created on Thu Aug 11 14:29:22 2022
 #import matplot library to create bar chart 
 import matplotlib.pyplot as plot
 
-#Resume must be in same directory as Python file
-source = 'ResumeText.txt'
+#Renamed Source File to KJV Version of Bible.
+#Must be in same directory as Python file
+source = 'Bible.txt'
 
 #establish characters to be counted. We are only interested in letters of the alphabet and not any special characters or numbers
 
